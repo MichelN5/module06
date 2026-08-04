@@ -1,0 +1,6 @@
+# C++ build artifacts
+*.o
+*.d
+
+# Exercise executables
+ex00/convert
